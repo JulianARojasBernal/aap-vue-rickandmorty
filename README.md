@@ -1,4 +1,4 @@
-# rick-and-morty
+# app-vue-rickandmorty
 
 ## Project setup
 ```
